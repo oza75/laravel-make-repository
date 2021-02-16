@@ -1,0 +1,10 @@
+<?php
+
+namespace App\Repositories\{{name}};
+
+use App\Repositories\BaseRepository;
+
+class Default{{name}}Repository extends BaseRepository implements {{name}}Repository
+{
+
+}
